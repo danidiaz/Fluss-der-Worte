@@ -11,14 +11,14 @@
 
 [Spock](https://www.spock.li/tutorial/)
 
-
     ss --listening --tcp --numeric
 
 [OpenSSL provides two primary libraries: libssl and libcrypto](https://wiki.openssl.org/index.php/Libcrypto_API)
 
     sudo apt install libssl1.0.0 libssl-dev libcrypto++9v5 libcrypto++-dev
 
-Secrets:
-    - mysql user passwd
+# Secrets
+
+    - mysql user/passwd
 
 
