@@ -17,8 +17,9 @@
 
     sudo apt install libssl1.0.0 libssl-dev libcrypto++9v5 libcrypto++-dev
 
-# Secrets
+[Spock haddocks.](https://spockdocs.s3.eu-central-1.amazonaws.com/Spock-0.11.0.0/index.html)
 
-    - mysql user/passwd
+[Spock core haddocks.](https://spockdocs.s3.eu-central-1.amazonaws.com/Spock-core-0.11.0.0/index.html)
 
+    mysql -u root -p
 
