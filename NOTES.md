@@ -21,5 +21,9 @@
 
 [Spock core haddocks.](https://spockdocs.s3.eu-central-1.amazonaws.com/Spock-core-0.11.0.0/index.html)
 
+[users haddocks.](https://www.stackage.org/haddock/lts-7.0/users-0.5.0.0/Web-Users-Types.html)
+
+[users postgresql-simple](https://www.stackage.org/lts-7.0/package/users-postgresql-simple-0.5.0.2)
+
     mysql -u root -p
 
