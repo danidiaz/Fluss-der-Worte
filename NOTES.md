@@ -35,6 +35,8 @@
 
 [It's a kind of magic: under the covers of Spring Boot](https://www.youtube.com/watch?v=uof5h-j0IeE)
 
+[Baeldung Spring JDBC](http://www.baeldung.com/spring-jdbc-jdbctemplate)
+
 [Spring Framework 5 Themes & Trends by Juergen Hoeller](https://www.youtube.com/watch?v=z3vq64xSQTo)
 
 [Spring Boot for the web tier](https://www.youtube.com/watch?v=7cemYpV1fNI)
@@ -48,6 +50,8 @@
 [How To Tackle JavaEE](https://www.youtube.com/watch?v=JWcoiXNoKxk)
 
 [On @annotations - liberate yourselves from demons](https://www.youtube.com/watch?v=-6zT60l5hDc)
+
+> New is kind of forbidden.
 
 [Transactions and Concurrency Control Patterns by Vlad Mihalcea](https://www.youtube.com/watch?v=onYjxRcToto)
 
