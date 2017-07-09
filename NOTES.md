@@ -29,4 +29,22 @@
 
 ---
 
+[Native Query With Spring's JdbcTempate](https://stackoverflow.com/questions/11750300/native-query-with-springs-jdbctempate)
+
+[Native SQL from Spring / Hibernate without entity mapping?](https://stackoverflow.com/questions/33225313/native-sql-from-spring-hibernate-without-entity-mapping)
+
+[It's a kind of magic: under the covers of Spring Boot](https://www.youtube.com/watch?v=uof5h-j0IeE)
+
+[Spring Framework 5 Themes & Trends by Juergen Hoeller](https://www.youtube.com/watch?v=z3vq64xSQTo)
+
+[Spring Boot for the web tier](https://www.youtube.com/watch?v=7cemYpV1fNI)
+
+[Spring Boot for the Java EE Developer](https://www.youtube.com/watch?v=BhnAcAaBaYA)
+
+[Maîtrisez les super pouvoirs de Spring Boot](https://www.youtube.com/watch?v=J852zGtsE3M)
+
+[Demystifying Java EE](https://www.youtube.com/watch?v=zht_qvbm5lU)
+
+[How To Tackle JavaEE](https://www.youtube.com/watch?v=JWcoiXNoKxk)
+
 
