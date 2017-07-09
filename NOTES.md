@@ -55,4 +55,9 @@
 
 [Transactions and Concurrency Control Patterns by Vlad Mihalcea](https://www.youtube.com/watch?v=onYjxRcToto)
 
+[SETTING UP JAVA EE 7 PROJECTS WITH MAVEN 3](http://www.adam-bien.com/roller/abien/entry/setting_up_java_ee_7)
+
+[A MINIMALISTIC POM FOR JAVAEE 6/7](http://www.adam-bien.com/roller/abien/entry/a_minimalistic_pom_for_javaee)
+
+
 
