@@ -69,4 +69,14 @@
 
 [Java EE 6 Development using GlassFish and Eclipse](https://www.youtube.com/watch?v=aBjlR9HoR50)
 
+[CDI and EJB - Java EE alignment and strategy](https://www.youtube.com/watch?v=vhGcbUAPFvk)
+
+[EJB 3.2 and Beyond](https://www.youtube.com/watch?v=vtuFMBYLHhg)
+
+[CDI : or how to extend Java EE in a portable way](https://www.youtube.com/watch?v=LYKMaj4XKvg)
+
+[CDI and EJB - What are the differences? by Marcus Schiesser](https://www.youtube.com/watch?v=_FZcIspEIN8)
+
+[What Is Faster EJBs or CDI?](https://www.youtube.com/watch?v=6Gm0u9gX56w) 
+
 
