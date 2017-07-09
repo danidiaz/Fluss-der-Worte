@@ -122,4 +122,8 @@ module of any kind.
 present in the EAR. So you go for an EAR when you have multiple EJB modules
 which is usually the case, hence the usual deployment is of an EAR.
 
+[How to create an war file in Eclipse without ant or maven?](https://stackoverflow.com/questions/4032421/how-to-create-an-war-file-in-eclipse-without-ant-or-maven)
+
+> Assuming you created this as a Dynamic Web project in Eclipse
+
 
