@@ -83,3 +83,10 @@
 
 [What is the difference between javaee-api and javaee-web-api?](https://stackoverflow.com/questions/16789020/what-is-the-difference-between-javaee-api-and-javaee-web-api)
 
+[Why do we use web.xml?](https://stackoverflow.com/questions/4538846/why-do-we-use-web-xml)
+
+[The Deployment Descriptor: web.xml](https://cloud.google.com/appengine/docs/standard/java/config/webxml)
+
+> Java web applications use a deployment descriptor file to determine how URLs map to servlets, which URLs require authentication, and other information. This file is named web.xml, and resides in the app's WAR under the WEB-INF/ directory. web.xml is part of the servlet standard for web applications.
+
+
