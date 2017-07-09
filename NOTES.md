@@ -79,4 +79,6 @@
 
 [What Is Faster EJBs or CDI?](https://www.youtube.com/watch?v=6Gm0u9gX56w) 
 
+[Structuring Java EE 7 Applications](https://www.youtube.com/watch?v=grJC6RFiB58)
+
 
