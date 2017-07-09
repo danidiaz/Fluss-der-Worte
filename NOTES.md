@@ -126,4 +126,13 @@ which is usually the case, hence the usual deployment is of an EAR.
 
 > Assuming you created this as a Dynamic Web project in Eclipse
 
+[Packaging EJB in JavaEE 6 WAR vs EAR](https://stackoverflow.com/questions/4441237/packaging-ejb-in-javaee-6-war-vs-ear)
 
+> A key aspect of this separation is that those two modules are isolated via a
+class loader hierarchy. The Web module has access to resources (typically
+beans) from the EJB module, and the EJB module can reference resources
+(typically libraries) defined in the overall EAR umbrella. The other direction
+is not possible. Specifically, the EJB module cannot access any resources
+defined in the Web module.
+
+> This enforcement is deliberate.
