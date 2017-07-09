@@ -102,3 +102,24 @@ put anything you want to hide from the client there.
 > META-INF is what discriminates a JAR file from a plain ZIP file. It holds the
 manifest file and may hold other deployment information as needed.
 
+[EJB explanation regarding EAR vs WAR](https://stackoverflow.com/questions/3923514/ejb-explanation-regarding-ear-vs-war)
+
+> The EJB module is assembled into a JAR, lets call it myapp-ejb.jar as a naming
+convention.
+
+> This contains the EJB code as well as the deployment descriptor file called
+ejb-jar.xml in EJB 2.x. In EJB 3.0, the code itself contains the annotations
+required for the server to understand for deployment, so the deployment
+descriptors are optional. The deployment descriptor/annotations cover basic
+stuff needed for EJB deployment like the JNDI, DataSource look up etc.
+
+> A collection of multiple EJB modules and other Web modules (war) together make
+up an EAR. As @Isaac pointed out, an EAR doesn't have to include any WAR file
+in it. The only condition for an EAR file is to contain at least one J2EE
+module of any kind.
+
+> The EAR needs a META-INF/application.xml which lists all the EJB jars and wars
+present in the EAR. So you go for an EAR when you have multiple EJB modules
+which is usually the case, hence the usual deployment is of an EAR.
+
+
