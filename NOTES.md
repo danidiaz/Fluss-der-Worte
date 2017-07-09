@@ -65,5 +65,6 @@
 
 [Eclipse 4.7 Platform News by Lars Vogel](https://www.youtube.com/watch?v=94hhzGnzqbw)
 
+[Eclipse and JAVA EE 7](https://stackoverflow.com/questions/23538620/eclipse-and-java-ee-7)
 
 
