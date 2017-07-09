@@ -81,4 +81,5 @@
 
 [Structuring Java EE 7 Applications](https://www.youtube.com/watch?v=grJC6RFiB58)
 
+[What is the difference between javaee-api and javaee-web-api?](https://stackoverflow.com/questions/16789020/what-is-the-difference-between-javaee-api-and-javaee-web-api)
 
