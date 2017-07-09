@@ -87,6 +87,16 @@
 
 [The Deployment Descriptor: web.xml](https://cloud.google.com/appengine/docs/standard/java/config/webxml)
 
-> Java web applications use a deployment descriptor file to determine how URLs map to servlets, which URLs require authentication, and other information. This file is named web.xml, and resides in the app's WAR under the WEB-INF/ directory. web.xml is part of the servlet standard for web applications.
+> Java web applications use a deployment descriptor file to determine how URLs
+> map to servlets, which URLs require authentication, and other information.
+> This file is named web.xml, and resides in the app's WAR under the WEB-INF/
+> directory. web.xml is part of the servlet standard for web applications.
 
+> Anyway, WEB-INF is the folder just under the root of a WAR that holds
+information that you don't want to be accessible to a client via a URL request.
+Specifically, it holds the web.xml, classes, and lib directories, but you can
+put anything you want to hide from the client there.
+
+> META-INF is what discriminates a JAR file from a plain ZIP file. It holds the
+manifest file and may hold other deployment information as needed.
 
