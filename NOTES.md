@@ -136,3 +136,7 @@ is not possible. Specifically, the EJB module cannot access any resources
 defined in the Web module.
 
 > This enforcement is deliberate.
+
+[What is the preferred way to use EJBs and Servlets for web applications?](https://stackoverflow.com/questions/6480175/what-is-the-preferred-way-to-use-ejbs-and-servlets-for-web-applications)
+
+
