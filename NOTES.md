@@ -47,4 +47,8 @@
 
 [How To Tackle JavaEE](https://www.youtube.com/watch?v=JWcoiXNoKxk)
 
+[On @annotations - liberate yourselves from demons](https://www.youtube.com/watch?v=-6zT60l5hDc)
+
+[Transactions and Concurrency Control Patterns by Vlad Mihalcea](https://www.youtube.com/watch?v=onYjxRcToto)
+
 
