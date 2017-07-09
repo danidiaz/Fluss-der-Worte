@@ -47,6 +47,8 @@
 
 [Demystifying Java EE](https://www.youtube.com/watch?v=zht_qvbm5lU)
 
+> Java EE is like a bundle of interfaces
+
 [How To Tackle JavaEE](https://www.youtube.com/watch?v=JWcoiXNoKxk)
 
 [On @annotations - liberate yourselves from demons](https://www.youtube.com/watch?v=-6zT60l5hDc)
@@ -58,6 +60,10 @@
 [SETTING UP JAVA EE 7 PROJECTS WITH MAVEN 3](http://www.adam-bien.com/roller/abien/entry/setting_up_java_ee_7)
 
 [A MINIMALISTIC POM FOR JAVAEE 6/7](http://www.adam-bien.com/roller/abien/entry/a_minimalistic_pom_for_javaee)
+
+[Java EE 8 by Linda De Michiel](https://www.youtube.com/watch?v=OXsdKzBIUzU)
+
+[Eclipse 4.7 Platform News by Lars Vogel](https://www.youtube.com/watch?v=94hhzGnzqbw)
 
 
 
