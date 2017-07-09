@@ -92,6 +92,8 @@
 > This file is named web.xml, and resides in the app's WAR under the WEB-INF/
 > directory. web.xml is part of the servlet standard for web applications.
 
+[What is WEB-INF used for in a Java EE web application?](https://stackoverflow.com/questions/19786142/what-is-web-inf-used-for-in-a-java-ee-web-application)
+
 > Anyway, WEB-INF is the folder just under the root of a WAR that holds
 information that you don't want to be accessible to a client via a URL request.
 Specifically, it holds the web.xml, classes, and lib directories, but you can
