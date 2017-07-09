@@ -67,4 +67,6 @@
 
 [Eclipse and JAVA EE 7](https://stackoverflow.com/questions/23538620/eclipse-and-java-ee-7)
 
+[Java EE 6 Development using GlassFish and Eclipse](https://www.youtube.com/watch?v=aBjlR9HoR50)
+
 
