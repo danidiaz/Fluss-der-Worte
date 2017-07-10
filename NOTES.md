@@ -139,4 +139,25 @@ defined in the Web module.
 
 [What is the preferred way to use EJBs and Servlets for web applications?](https://stackoverflow.com/questions/6480175/what-is-the-preferred-way-to-use-ejbs-and-servlets-for-web-applications)
 
+[Java EE Architecture - Where do CDI Beans belong to?](https://stackoverflow.com/questions/43680548/java-ee-architecture-where-do-cdi-beans-belong-to/43731153)
+
+> CDI has it's own container, so if that helps you, you can imagine the beans
+sitting in their own container. And why do they have their own container? Well,
+because it takes care about the lifecycle, much as an EJB container does.
+On-demand bean creation and destruction, injection of dependencies... But with
+CDI, the container is usually "scoped" (no connection to CDI scopes here!) per
+application deployed. E.g. on your application server, you will have such a
+container for each WAR, whereas with EJB there will be one container only
+(after all, that's why you can have remote interfaces and jndi lookup).
+
+> However you imagine it, the borders are indeed blurred and one of the reasons
+for that is that any EJB bean is automatically a CDI bean too. Meaning you now
+have them sitting in two containers at a time (it's only proxies, but still).
+
+> Tier-wise, CDI can be anywhere - ranging from database layer (handling entity
+managers as beans), over a business layer alongside EJB up to presentation
+layer where, in JSF, you refer the beans directly via @Named. The CDI is there
+for you to turn the world into beans and you choose what will be handled by CDI
+and what will not.
+
 
