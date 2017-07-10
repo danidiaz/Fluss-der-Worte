@@ -207,6 +207,87 @@ within a JAR file that is bundled within the WAR module.
 
 [What is difference between JavaBean and ManagedBean](https://stackoverflow.com/questions/16978886/what-is-difference-between-javabean-and-managedbean)
 
+[Do I really need web.xml for a Servlet based Java web application?](https://stackoverflow.com/questions/30259153/do-i-really-need-web-xml-for-a-servlet-based-java-web-application)
+
+[What a back-end Java Developer don’t know about the modern web stack](https://www.youtube.com/watch?v=f4_5kesxSTk)
+
+[IntelliJ vs STS (SpringSource Tool Suite)](https://stackoverflow.com/questions/7395815/intellij-vs-sts-springsource-tool-suite-what-am-i-missing-by-using-one-or-the)
+
+[Java EE 6 Web profile vs Java EE 6 Full Platform](https://stackoverflow.com/questions/24239978/java-ee-6-web-profile-vs-java-ee-6-full-platform)
+
+[CMT transactions on EJB versus @Transactional on CDI beans](https://softwareengineering.stackexchange.com/questions/329187/cmt-transactions-on-ejb-versus-transactional-on-cdi-beans)
+
+[JEE7: Do EJB and CDI beans support container-managed transactions?](https://stackoverflow.com/questions/17838221/jee7-do-ejb-and-cdi-beans-support-container-managed-transactions)
+
+[CDI Beans and JPA Transactions](https://stackoverflow.com/questions/42996024/cdi-beans-and-jpa-transactions)
+
+[Backing beans (@ManagedBean) or CDI Beans (@Named)](https://stackoverflow.com/questions/4347374/backing-beans-managedbean-or-cdi-beans-named)
+
+[@Named versus @Model - CDI vs/and ManagedBean](https://stackoverflow.com/questions/23308796/named-versus-model-cdi-vs-and-managedbean)
+
+[Is Tomcat 8 an incomplete Java EE 7 Web Profile implementation?](https://stackoverflow.com/questions/36971154/is-tomcat-8-an-incomplete-java-ee-7-web-profile-implementation)
+
+[Java EE 7 + Thin WARs + Docker = Great Productivity](http://www.adam-bien.com/roller/abien/entry/java_ee_7_thin_wars)
+
+[Guide to EJB Set-up](http://www.baeldung.com/ejb-intro)
+
+[Native Queries - How to call native SQL queries with JPA](https://www.thoughts-on-java.org/jpa-native-queries/)
+
+[Contexts and Dependency Injection for Java Specification](http://cdi-spec.org/)
+
+[What is the difference between Enterprise Java Bean(EJB) and Entity Java Bean](https://stackoverflow.com/questions/40666486/what-is-the-difference-between-enterprise-java-beanejb-and-entity-java-bean)
+
+[Relationship between deprecated Entity Beans in Java EE and the @Entity annotation](https://stackoverflow.com/questions/13765853/relationship-between-deprecated-entity-beans-in-java-ee-and-the-entity-annotati)
+
+[DDD, domain entities/VO and JPA](https://stackoverflow.com/questions/31400432/ddd-domain-entities-vo-and-jpa)
+
+[DDD When should I create a domain object and a persistence object instead of using a persistence object as a domain object?](https://stackoverflow.com/questions/33268944/ddd-when-should-i-create-a-domain-object-and-a-persistence-object-instead-of-usi)
+
+[Are persistence annotations in domain objects a bad practice?](https://stackoverflow.com/questions/10099636/are-persistence-annotations-in-domain-objects-a-bad-practice)
+
+[Building A React Application With Java EE Backend](http://www.adam-bien.com/roller/abien/entry/building_a_react_application_with)
+
+[Difference between @Stateless and @Singleton](https://stackoverflow.com/questions/14464823/difference-between-stateless-and-singleton)
+
+[Valid CDI scopes for Session (EJB) beans](https://abhirockzz.wordpress.com/2015/02/19/valid-cdi-scoped-for-session-ejb-beans/)
+
+[JAVA EE CDI Scopes, EJBs and managed beans serialization](https://stackoverflow.com/questions/25908920/java-ee-cdi-scopes-ejbs-and-managed-beans-serialization)
+
+[EJB bean and CDI bean and Injection](https://stackoverflow.com/questions/27472052/ejb-bean-and-cdi-bean-and-injection)
+
+[Create the perfect JPA entity](https://stackoverflow.com/questions/6033905/create-the-perfect-jpa-entity)
+
+[Better CDI Alignment in JPA 2.1/Java EE 7](https://blogs.oracle.com/theaquarium/better-cdi-alignment-in-jpa-21java-ee-7)
+
+> A long standing open debate within the Domain-Driven Design (DDD) community is
+whether entities should be able to access application services (roughly
+business facades in J2EE patterns parlance) and repositories (roughly DAOs in
+J2EE patterns parlance). If we think it's OK for entities to access these parts
+of the application, it poses a problem in JPA and other mainstream data access
+technologies - how do you inject objects into an entity? The answer today in
+JPA is that you can't do that. There are good technical reasons why it's
+difficult to allow CDI injection directly into JPA entities - it becomes very
+difficult to figure out how to manage the entity life-cycle if it is managed by
+both the CDI and JPA runtimes at the same time.
+
+[Using CDI/Weld to Inject JPA/Hibernate Entity Manager](https://www.sitepoint.com/cdi-weld-inject-jpa-hibernate-entity-managers/)
+
+[Can I inject an JPA EntityManager using CDI and @PersistenceContext, like with Spring?](https://stackoverflow.com/questions/40469121/can-i-inject-an-jpa-entitymanager-using-cdi-and-persistencecontext-like-with-s)
+
+[How to inject EntityManager in CDI (weld)?](https://stackoverflow.com/questions/31374994/how-to-inject-entitymanager-in-cdi-weld)
+
+[Please explain the @Produces annotation in CDI](https://stackoverflow.com/questions/16534728/please-explain-the-produces-annotation-in-cdi)
+
+[Rapid Development Tools for Java EE 8](https://www.youtube.com/watch?v=Nlz7zKku_zk&app=desktop)
+
+
+[]()
+
+
+
+
+
+
 
 
 
