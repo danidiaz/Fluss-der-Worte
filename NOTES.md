@@ -186,3 +186,24 @@ Generate the projects like
 mvn archetype:generate -DarchetypeGroupId=org.wildfly.archetype -DarchetypeArtifactId=wildfly-javaee7-webapp-ear-archetype
 ```
 
+[Packaging Enterprise Beans in EJB JAR Modules](https://docs.oracle.com/javaee/7/tutorial/packaging002.htm)
+
+> Enterprise beans often provide the business logic of a web application. In
+these cases, packaging the enterprise bean within the web application's WAR
+module simplifies deployment and application organization. Enterprise beans may
+be packaged within a WAR module as Java programming language class files or
+within a JAR file that is bundled within the WAR module.
+
+[Difference between a managed bean and a session bean](https://stackoverflow.com/questions/6793351/difference-between-a-managed-bean-and-a-session-bean)
+
+[difference between jsf beans and ejb beans](https://stackoverflow.com/questions/4295303/difference-between-jsf-beans-and-ejb-beans)
+
+> There is indeed some confusion between the different types of managed beans
+> in Java EE. To add to the confusion, Java EE 6 has introduced a third kind of
+> managed bean: a CDI bean.
+
+[What is difference between JavaBean and ManagedBean](https://stackoverflow.com/questions/16978886/what-is-difference-between-javabean-and-managedbean)
+
+
+
+
