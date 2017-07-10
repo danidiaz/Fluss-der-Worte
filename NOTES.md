@@ -160,4 +160,14 @@ layer where, in JSF, you refer the beans directly via @Named. The CDI is there
 for you to turn the world into beans and you choose what will be handled by CDI
 and what will not.
 
+[POM reference](https://maven.apache.org/pom.html)
 
+> Inheritance and aggregation create a nice dynamic to control builds through a
+single, high-level POM. You will often see projects that are both parents and
+aggregators. For example, the entire maven core runs through a single base POM
+org.apache.maven:maven, so building the Maven project can be executed by a
+single command: mvn compile. However, although both POM projects, an aggregator
+project and a parent project are not one in the same and should not be
+confused. A POM project may be inherited from - but does not necessarily have -
+any modules that it aggregates. Conversely, a POM project may aggregate
+projects that do not inherit from it.
