@@ -171,3 +171,18 @@ project and a parent project are not one in the same and should not be
 confused. A POM project may be inherited from - but does not necessarily have -
 any modules that it aggregates. Conversely, a POM project may aggregate
 projects that do not inherit from it.
+
+Two archetypes to learn from:  
+
+- org.wildfly.archetype:wildfly-html5-mobile-archetype An archetype that
+  generates a Java EE 7 application using HTML5, and JAX-RS to support both
+  desktop and mobile web browsers
+
+- org.wildfly.archetype:wildfly-javaee7-webapp-ear-archetype An archetype that generates a starter Java EE 7 webapp project for JBoss Wildfly. The project is an EAR, with an EJB-JAR and WAR
+
+Generate the projects like
+
+```
+mvn archetype:generate -DarchetypeGroupId=org.wildfly.archetype -DarchetypeArtifactId=wildfly-javaee7-webapp-ear-archetype
+```
+
