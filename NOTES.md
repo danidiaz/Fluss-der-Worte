@@ -172,7 +172,10 @@ confused. A POM project may be inherited from - but does not necessarily have -
 any modules that it aggregates. Conversely, a POM project may aggregate
 projects that do not inherit from it.
 
-Two archetypes to learn from:  
+Archetypes to learn from:  
+
+- com.airhacks:javaee7-essentials-archetype Java EE 7 project template. Clean,
+  lean and minimalistic.
 
 - org.wildfly.archetype:wildfly-html5-mobile-archetype An archetype that
   generates a Java EE 7 application using HTML5, and JAX-RS to support both
