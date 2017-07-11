@@ -314,3 +314,5 @@ both the CDI and JPA runtimes at the same time.
 
 [BUILDING A REACT APPLICATION WITH JAVA EE BACKEND](http://www.adam-bien.com/roller/abien/entry/building_a_react_application_with)
 
+[Deploying in TomEE](http://tomee.apache.org/deploying-in-tomee.html)
+
