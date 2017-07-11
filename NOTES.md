@@ -280,14 +280,37 @@ both the CDI and JPA runtimes at the same time.
 
 [Rapid Development Tools for Java EE 8](https://www.youtube.com/watch?v=Nlz7zKku_zk&app=desktop)
 
+[What's the difference between JPA and Hibernate?](https://stackoverflow.com/questions/9881611/whats-the-difference-between-jpa-and-hibernate)
 
-[]()
+[Why use Facade pattern for EJB session bean](https://stackoverflow.com/questions/5636764/why-use-facade-pattern-for-ejb-session-bean)
 
+[How to use Spring JPA with PostgreSQL | Spring Boot](http://javasampleapproach.com/spring-framework/use-spring-jpa-postgresql-spring-boot)
 
+[Making the JDBC Driver JAR Files Accessible](https://docs.oracle.com/cd/E19798-01/821-1752/beamn/index.html)
 
+[REST Example with TomEE](http://tomee.apache.org/examples-trunk/rest-example/README.html)
 
+[Service layer and dao layer in java ee EJBs](https://stackoverflow.com/questions/24400382/service-layer-and-dao-layer-in-java-ee-ejbs)
 
+[JPA with EJB with separated DAO and Service Layers](https://stackoverflow.com/questions/17449838/jpa-with-ejb-with-separated-dao-and-service-layers)
 
+[JAVA EE 7 WITH APACHE TOMEE 7.0.0-M1 ON JAVA 1.8.0-- A SMOKE TEST](http://www.adam-bien.com/roller/abien/entry/java_ee_7_with_apache)
 
+[jar file location - ear file or server lib folder?](https://stackoverflow.com/questions/12318071/jar-file-location-ear-file-or-server-lib-folder)
 
+[Why do we need @Entity Annotation when we define the class in configuration file](https://stackoverflow.com/questions/35345740/why-do-we-need-entity-annotation-when-we-define-the-class-in-configuration-file)
+
+[JPA Entities and/vs DTOs](https://stackoverflow.com/questions/5216633/jpa-entities-and-vs-dtos)
+
+[JAVA: Difference between Entity and DTO](https://stackoverflow.com/questions/39397147/java-difference-between-entity-and-dto)
+
+[Entity to DTO Usage](https://softwareengineering.stackexchange.com/questions/198520/entity-to-dto-usage)
+
+[https://codereview.stackexchange.com/questions/93511/data-transfer-objects-vs-entities-in-java-rest-server-application](https://codereview.stackexchange.com/questions/93511/data-transfer-objects-vs-entities-in-java-rest-server-application)
+
+[Java EE 7 and JAVA 8](https://www.youtube.com/watch?v=aYbjACDi2QU&app=desktop)
+
+[Spring 4, Java EE 7 or Both?](http://jeeconf.com/archive/jeeconf-2014/materials/spring-jee7/)
+
+[BUILDING A REACT APPLICATION WITH JAVA EE BACKEND](http://www.adam-bien.com/roller/abien/entry/building_a_react_application_with)
 
