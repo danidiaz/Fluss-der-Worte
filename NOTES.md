@@ -322,3 +322,7 @@ both the CDI and JPA runtimes at the same time.
 [How to Create a CRUD Application in 90 Seconds](https://dzone.com/articles/crud-in-90-seconds)
 
 [Top 50 Java EE 7 best practices, including JAX-RS, JASPIC, CDI and more]( https://www.reddit.com/r/java/comments/556rq1/top_50_java_ee_7_best_practices_including_jaxrs/)
+
+[Getting Your Java EE code up and Running in Docker Containers on OpenShift](https://blog.openshift.com/getting-java-ee-code-running-docker-containers-openshift/)
+
+
