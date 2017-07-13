@@ -316,3 +316,9 @@ both the CDI and JPA runtimes at the same time.
 
 [Deploying in TomEE](http://tomee.apache.org/deploying-in-tomee.html)
 
+[Spring Boot + REST Jersey (Adding Spring data) Part 2](https://geeks-mexico.com/2017/07/12/spring-boot-rest-jersey-adding-spring-data-part-2/)
+
+
+[How to Create a CRUD Application in 90 Seconds](https://dzone.com/articles/crud-in-90-seconds)
+
+[Top 50 Java EE 7 best practices, including JAX-RS, JASPIC, CDI and more]( https://www.reddit.com/r/java/comments/556rq1/top_50_java_ee_7_best_practices_including_jaxrs/)
