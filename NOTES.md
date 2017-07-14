@@ -331,3 +331,8 @@ both the CDI and JPA runtimes at the same time.
 > connection, like all connections, should always be explicitly closed. When an
 > application closes a connection that is pooled, the connection is returned to
 > a pool of reusable connections.
+
+[Why do we use a DataSource instead of a DriverManager?](https://stackoverflow.com/questions/15198319/why-do-we-use-a-datasource-instead-of-a-drivermanager?noredirect=1&lq=1)
+
+
+
