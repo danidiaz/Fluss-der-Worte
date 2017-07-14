@@ -325,4 +325,9 @@ both the CDI and JPA runtimes at the same time.
 
 [Getting Your Java EE code up and Running in Docker Containers on OpenShift](https://blog.openshift.com/getting-java-ee-code-running-docker-containers-openshift/)
 
+[DataSource Objects and Connection Pools](https://docs.oracle.com/javaee/7/tutorial/resource-creation002.htm)
 
+> Connection pooling has no effect on application code except that a pooled
+> connection, like all connections, should always be explicitly closed. When an
+> application closes a connection that is pooled, the connection is returned to
+> a pool of reusable connections.
