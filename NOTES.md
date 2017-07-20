@@ -336,3 +336,9 @@ both the CDI and JPA runtimes at the same time.
 
 [Docker - managing data in containers](https://docs.docker.com/engine/tutorials/dockervolumes/)
 
+[Docker - volumes](https://boxboat.com/2016/06/18/docker-data-containers-and-named-volumes/)
+
+> This new ability to manage and name volumes directly from the CLI truncates
+> any further need for use of data containers. As seen in the docker github
+> issue 17798, best practice is to use named volumes over data containers from
+> here on out in most, if not all, use cases.
