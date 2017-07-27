@@ -344,3 +344,7 @@ both the CDI and JPA runtimes at the same time.
 > here on out in most, if not all, use cases.
 
 [Has Spring Boot made the Spring Framework too complex to understand / configure ?](https://www.reddit.com/r/java/comments/6p0vmq/has_spring_boot_made_the_spring_framework_too/)
+
+[DTOs and entities](https://www.thoughts-on-java.org/entities-dtos-use-projection/)
+
+
