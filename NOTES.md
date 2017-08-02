@@ -349,4 +349,37 @@ both the CDI and JPA runtimes at the same time.
 
 [creating spring rest services without using spring boot](https://stackoverflow.com/questions/29416804/creating-spring-rest-services-without-using-spring-boot)
 
+> docker volume create pgdatavol
+
+> docker network create simple-network
+
+> docker run --name some-postgres -d --rm -P --network=simple-network --network-alias=pgmachine -v pgdatavol:/var/lib/postgresql/data -e POSTGRES_PASSWORD=postgres postgres
+
+> docker port some-postgres
+
+> docker run -it --rm --network=simple-network postgres psql -h some-postgres -U postgres
+
+> docker run -it --rm --network=simple-network postgres psql -h pgmachine -U postgres
+
+[Are Docker links deprecated?](https://stackoverflow.com/questions/39173670/are-docker-links-deprecated)
+
+[Docker networking](https://docs.docker.com/engine/userguide/networking/) [more](https://docs.docker.com/engine/reference/commandline/network_create/#extended-description)
+
+> Containers connected to the default bridge network can communicate with each other by IP address.
+
+> Containers connected to the default bridge network can communicate with each other by IP address. Docker does not support automatic service discovery on the default bridge network. If you want containers to be able to resolve IP addresses by container name, you should use user-defined networks instead. 
+
+> After you complete the steps in Basic container networking examples, container2 can resolve container3’s name automatically because both containers are connected to the isolated_nw network.
+
+> How can Docker supply each container with a hostname and DNS configuration, without having to build a custom image with the hostname written inside? Its trick is to overlay three crucial /etc files inside the container with virtual files where it can write fresh information. You can see this by running mount inside a container
+
+> docker exec some-postgres mount
+
+[Docker --network-alias](https://forums.docker.com/t/resolve-containers-from-host-by-network-alias-or-container-name-or-host/23861/2)
+
+> Don't believe the network aliases have any effect for host -> container connections. It's just another alias accessible via DNS from containers inside the specificed bridge network. Or you could map a port and then just connect to it via localhost:<mapped_port>.
+
+[Docker cheat sheet](https://github.com/wsargent/docker-cheat-sheet#exposing-ports)
+
+[Docker-compose environment variables](https://stackoverflow.com/questions/29580798/docker-compose-environment-variables)
 
