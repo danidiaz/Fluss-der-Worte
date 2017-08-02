@@ -347,4 +347,6 @@ both the CDI and JPA runtimes at the same time.
 
 [DTOs and entities](https://www.thoughts-on-java.org/entities-dtos-use-projection/)
 
+[creating spring rest services without using spring boot](https://stackoverflow.com/questions/29416804/creating-spring-rest-services-without-using-spring-boot)
+
 
