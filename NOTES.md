@@ -353,7 +353,7 @@ both the CDI and JPA runtimes at the same time.
 
 > docker network create simple-network
 
-> docker run --name some-postgres -d --rm -P --network=simple-network --network-alias=pgmachine -v pgdatavol:/var/lib/postgresql/data -e POSTGRES_PASSWORD=postgres postgres
+> docker run --name some-postgres -d --rm -P --network=simple-network --network-alias=pgmachine -v pgdatavol:/var/lib/postgresql/data -e POSTGRES_PASSWORD='postgres' postgres
 
 > docker port some-postgres
 
