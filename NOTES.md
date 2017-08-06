@@ -388,3 +388,7 @@ both the CDI and JPA runtimes at the same time.
 > SLF4J avoid the class loader issues that plague JCL.
 
 > SLF4J static binding approach is very simple, perhaps even laughably so. It was not easy to convince developers of the validity of that approach. It is only after SLF4J was released and started to become accepted did it gain respectability in the relevant community.
+
+[Spring minimal template](https://github.com/mpakhomov/spring-minimal-template)
+
+
