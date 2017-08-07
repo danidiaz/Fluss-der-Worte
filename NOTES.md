@@ -353,7 +353,7 @@ both the CDI and JPA runtimes at the same time.
 
 > docker network create simple-network
 
-> docker run --name some-postgres -d --rm -P --network=simple-network --network-alias=pgmachine -v pgdatavol:/var/lib/postgresql/data -e POSTGRES_PASSWORD='postgres' postgres
+> docker run --name some-postgres -d --rm -p 127.0.0.1::5432 --network=simple-network --network-alias=pgmachine -v pgdatavol:/var/lib/postgresql/data -e POSTGRES_PASSWORD='postgres' postgres
 
 > docker port some-postgres
 
@@ -391,4 +391,11 @@ both the CDI and JPA runtimes at the same time.
 
 [Spring minimal template](https://github.com/mpakhomov/spring-minimal-template)
 
+[socat](http://www.dest-unreach.org/socat/doc/socat.html#EXAMPLES)
 
+> In the context of docker, socat is commonly used to open up network connectivity
+to docker containers after they have been started, when ports were not mapped
+originally. This can be useful, for example, in development, when exact ports
+may not be known at the time the original docker container is created.
+
+[Three Ways to Script Processes in Parallel](https://www.codeword.xyz/2015/09/02/three-ways-to-script-processes-in-parallel/)
