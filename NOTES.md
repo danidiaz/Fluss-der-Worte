@@ -399,3 +399,6 @@ originally. This can be useful, for example, in development, when exact ports
 may not be known at the time the original docker container is created.
 
 [Three Ways to Script Processes in Parallel](https://www.codeword.xyz/2015/09/02/three-ways-to-script-processes-in-parallel/)
+
+[JAX-RS vs. Spring for REST Endpoints](https://dzone.com/articles/lets-compare-jax-rs-vs-spring-for-rest-endpoints)
+
