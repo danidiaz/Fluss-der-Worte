@@ -402,3 +402,6 @@ may not be known at the time the original docker container is created.
 
 [JAX-RS vs. Spring for REST Endpoints](https://dzone.com/articles/lets-compare-jax-rs-vs-spring-for-rest-endpoints)
 
+[Modern Java development is fast](https://return.co.de/blog/articles/java-development-fast/) [on Reddit](https://www.reddit.com/r/programming/comments/6xux68/modern_java_development_is_fast/)
+
+
