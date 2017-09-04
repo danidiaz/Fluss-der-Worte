@@ -404,4 +404,9 @@ may not be known at the time the original docker container is created.
 
 [Modern Java development is fast](https://return.co.de/blog/articles/java-development-fast/) [on Reddit](https://www.reddit.com/r/programming/comments/6xux68/modern_java_development_is_fast/)
 
+[Spring Data - JPA](https://github.com/spring-projects/spring-data-jpa)
+
+[The best way to soft delete with Hibernate](https://vladmihalcea.com/2017/03/08/the-best-way-to-soft-delete-with-hibernate/)
+
+[How to implement a soft delete with Hibernate](https://www.thoughts-on-java.org/implement-soft-delete-hibernate/) [Reddit](https://www.reddit.com/r/java/comments/5y7ag2/the_best_way_to_soft_delete_with_hibernate/)
 
