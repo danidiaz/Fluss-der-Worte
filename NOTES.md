@@ -410,3 +410,9 @@ may not be known at the time the original docker container is created.
 
 [How to implement a soft delete with Hibernate](https://www.thoughts-on-java.org/implement-soft-delete-hibernate/) [Reddit](https://www.reddit.com/r/java/comments/5y7ag2/the_best_way_to_soft_delete_with_hibernate/)
 
+[Hibernate Validator](http://staging.in.relation.to/2017/08/07/and-here-comes-hibernate-validator-60/)
+
+[Fat and skinny jars](https://developers.redhat.com/blog/2017/08/24/the-skinny-on-fat-thin-hollow-and-uber/)
+
+
+
