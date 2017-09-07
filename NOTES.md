@@ -414,5 +414,5 @@ may not be known at the time the original docker container is created.
 
 [Fat and skinny jars](https://developers.redhat.com/blog/2017/08/24/the-skinny-on-fat-thin-hollow-and-uber/)
 
-
+[Maven 3 Archetype for Project With Spring, Spring MVC, Hibernate, JPA](https://stackoverflow.com/questions/14594303/maven-3-archetype-for-project-with-spring-spring-mvc-hibernate-jpa) [repo](https://github.com/kolorobot/spring-mvc-quickstart-archetype)
 
