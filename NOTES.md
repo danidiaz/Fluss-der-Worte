@@ -416,3 +416,6 @@ may not be known at the time the original docker container is created.
 
 [Maven 3 Archetype for Project With Spring, Spring MVC, Hibernate, JPA](https://stackoverflow.com/questions/14594303/maven-3-archetype-for-project-with-spring-spring-mvc-hibernate-jpa) [repo](https://github.com/kolorobot/spring-mvc-quickstart-archetype)
 
+[Chapter 10. Native query](https://docs.jboss.org/hibernate/orm/4.0/hem/en-US/html/query_native.html)
+
+
