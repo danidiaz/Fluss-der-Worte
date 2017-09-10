@@ -426,3 +426,16 @@ may not be known at the time the original docker container is created.
 
 [Apply the Strangler Application pattern to microservices applications](https://www.ibm.com/developerworks/cloud/library/cl-strangler-application-pattern-microservices-apps-trs/index.html) [Dzone](https://dzone.com/articles/the-road-to-continuous-deployment) [video](https://www.youtube.com/watch?v=HSYpWXz3O64)
 
+[Understand the effects of NULLs on inner and outer JOINs](http://www.techrepublic.com/article/understand-the-effects-of-nulls-on-inner-and-outer-joins/)
+
+[Null Values and Joins](https://technet.microsoft.com/en-us/library/ms190409(v=sql.105).aspx)
+
+[Nulls: Nothing to Worry About](http://www.oracle.com/technetwork/issue-archive/2005/05-jul/o45sql-097727.html)
+
+>  When writing an outer join, give careful consideration to the table from which you retrieve join columns.
+
+> Scalar expressions yield null if any operand is null, but nulls are ignored by aggregate functions. This behavior is specified by the SQL standard, but it can still lead to some very surprising and unintuitive query results.
+
+> As soon as you use aggregate functions in your SQL, you must be aware that empty sets might come into play. Listing 7 shows how aggregate functions react to empty sets. Apparently, COUNT returns zero whereas AVG, SUM, MAX , and MIN return null. 
+
+
