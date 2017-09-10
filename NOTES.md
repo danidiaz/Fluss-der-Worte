@@ -424,4 +424,5 @@ may not be known at the time the original docker container is created.
 
 [Simple example on creating REST API using Spring Boot Framework for beginners](https://www.ashtpoint.com/spring-boot/spring-boot-rest-example.html)
 
+[Apply the Strangler Application pattern to microservices applications](https://www.ibm.com/developerworks/cloud/library/cl-strangler-application-pattern-microservices-apps-trs/index.html) [Dzone](https://dzone.com/articles/the-road-to-continuous-deployment) [video](https://www.youtube.com/watch?v=HSYpWXz3O64)
 
