@@ -418,4 +418,10 @@ may not be known at the time the original docker container is created.
 
 [Chapter 10. Native query](https://docs.jboss.org/hibernate/orm/4.0/hem/en-US/html/query_native.html)
 
+[A JAVA EE 7+ ALTERNATIVE TO EJB TIMERS](http://adambien.blog/roller/abien/entry/a_java_ee_7_alternative)
+
+[Implementing a microservice architecture with Spring Boot. Part One: Setting up docker](https://medium.com/@marcus.eisele/implementing-a-microservice-architecture-with-spring-boot-part-one-the-environment-cbc032473ab8)
+
+[Simple example on creating REST API using Spring Boot Framework for beginners](https://www.ashtpoint.com/spring-boot/spring-boot-rest-example.html)
+
 
