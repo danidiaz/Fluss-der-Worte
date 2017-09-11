@@ -456,4 +456,5 @@ may not be known at the time the original docker container is created.
 
 [Should controller layer create model objects or they should be created by service layer?](https://softwareengineering.stackexchange.com/questions/311284/should-controller-layer-create-model-objects-or-they-should-be-created-by-servic)
 
+[JPA 2 | EntityManagers, Transactions and everything around it](http://www.kumaranuj.com/2013/06/jpa-2-entitymanagers-transactions-and.html)
 
