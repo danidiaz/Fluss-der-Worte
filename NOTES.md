@@ -480,8 +480,8 @@ Especially [this one](https://www.reddit.com/r/programming/comments/2cnw8x/what_
 
 [JPA and native SQL queries – part un](https://blogs.sap.com/2016/07/27/jpa-and-native-sql-queries-part-un/)
 
+[MDN - DOM on-event handlers](https://developer.mozilla.org/en-US/docs/Web/Guide/Events/Event_handlers)
 
-
-
+[MDN - script](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/script)
 
 
