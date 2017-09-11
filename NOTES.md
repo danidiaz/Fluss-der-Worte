@@ -484,4 +484,4 @@ Especially [this one](https://www.reddit.com/r/programming/comments/2cnw8x/what_
 
 [MDN - script](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/script)
 
-
+[MDN - EventTarget.addEventListener()](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener)
