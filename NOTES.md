@@ -446,6 +446,10 @@ may not be known at the time the original docker container is created.
 
 [Why need detached entities in JPA?](https://stackoverflow.com/questions/21622841/why-need-detached-entities-in-jpa)
 
+> Detached entities exists only to minimize the time your data is locked due to a transaction, maximizing the number of simultaneous users. Of course, this comes with a cost, and you listed them. but since merging conflicts are usually rare, people accept some rare bugs.
+
+> Suppose a user has to update a form, you get the details of user in from through UserObject, This user object is persistent with session. Now if user doesn't submit the form, your session is open until server session expires, how long will you wait? If you have used getCurrentSession, another form request comes while previous one is not submitted, you have got dirty data now!! What if your object is waiting for a data that is to come for a web-service and it taking long enough, will you still keep session open, object persistent with session?
+
 [ORM entities should be an implementation detail](http://endoflineblog.com/orm-entities-should-be-an-implementation-detail)
 
 [JPA Implementation Patterns: Saving (Detached) Entities](https://dzone.com/articles/saving_detatched_entities)
