@@ -438,4 +438,22 @@ may not be known at the time the original docker container is created.
 
 > As soon as you use aggregate functions in your SQL, you must be aware that empty sets might come into play. Listing 7 shows how aggregate functions react to empty sets. Apparently, COUNT returns zero whereas AVG, SUM, MAX , and MIN return null. 
 
+[Flavors of Spring application context configuration](https://blog.frankel.ch/flavors-spring-application-context-configuration/#gsc.tab=0)
+
+[The JPA Entity Lifecycle](https://dzone.com/articles/jpa-entity-lifecycle)
+
+[DTO or Domain Model Object in the View Layer?](https://stackoverflow.com/questions/2680071/dto-or-domain-model-object-in-the-view-layer)
+
+[Why need detached entities in JPA?](https://stackoverflow.com/questions/21622841/why-need-detached-entities-in-jpa)
+
+[ORM entities should be an implementation detail](http://endoflineblog.com/orm-entities-should-be-an-implementation-detail)
+
+[JPA Implementation Patterns: Saving (Detached) Entities](https://dzone.com/articles/saving_detatched_entities)
+
+[Entity Management - diagrams](https://developer.ucsd.edu/develop/data-layer/jpa/entity-management.html)
+
+[How to map the latest child of a parent entity using Hibernate @JoinFormula](https://vladmihalcea.com/2017/02/16/how-to-map-the-latest-child-of-a-parent-entity-using-hibernate-joinformula/)
+
+[Should controller layer create model objects or they should be created by service layer?](https://softwareengineering.stackexchange.com/questions/311284/should-controller-layer-create-model-objects-or-they-should-be-created-by-servic)
+
 
