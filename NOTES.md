@@ -462,3 +462,26 @@ may not be known at the time the original docker container is created.
 
 [JPA 2 | EntityManagers, Transactions and everything around it](http://www.kumaranuj.com/2013/06/jpa-2-entitymanagers-transactions-and.html)
 
+[When Should I Use @JoinColumn or @JoinTable?](https://stackoverflow.com/questions/30288464/when-should-i-use-joincolumn-or-jointable)
+
+[What ORMs have taught me: just learn SQL](https://www.reddit.com/r/programming/comments/2cnw8x/what_orms_have_taught_me_just_learn_sql/)
+
+Includes [comments](https://www.reddit.com/r/programming/comments/2cnw8x/what_orms_have_taught_me_just_learn_sql/cjhfyfv/) by Gavin King.
+
+Especially [this one](https://www.reddit.com/r/programming/comments/2cnw8x/what_orms_have_taught_me_just_learn_sql/cjheyec/):
+
+> Well in fairness, we used to say it over and over again until we were blue in the face back when I was working on Hibernate. I even remember a number of times getting called into a client site where basically my only role was to give the team permission to use SQL for a problem that was clearly unsuited to ORM. To me it's just a no-brainer that if ORM isn't helping for some problem, then use something else.
+
+> Indeed, systems like Hibernate are intentionally designed as "leaky abstractions" so that it's possible to easily mix in native SQL where necessary. The leakiness of the ORM abstraction is a feature, not a bug! It's meant to be that way, because both the object model and the relational model are valid ways of looking at the data, and both are useful! I speculate that the problem is not that ORM gets in the way of using SQL, it's rather that so many Java/C#/Ruby/Python/JavaScript developers don't have a strong enough knowledge of, or aren't sufficiently comfortable with, relational databases and the relational model. That is emphatically not the fault of ORM!
+
+> Moreover, ORM is for OLTP applications. It's not usually appropriate for: batch processing, or analysis.
+
+[How to Build a Multitenant Application: A Hibernate Tutorial](https://www.toptal.com/hibernate/build-multitenant-java-hibernate)
+
+[JPA and native SQL queries – part un](https://blogs.sap.com/2016/07/27/jpa-and-native-sql-queries-part-un/)
+
+
+
+
+
+
