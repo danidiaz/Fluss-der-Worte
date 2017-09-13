@@ -488,3 +488,10 @@ Especially [this one](https://www.reddit.com/r/programming/comments/2cnw8x/what_
 
 [MDN - load event](https://developer.mozilla.org/en-US/docs/Web/Events/load)
 
+[Spring Framework Tutorial | What is Spring Framework, Spring MVC Architecture & Spring IOC](https://www.youtube.com/watch?v=d1mUkVCvC20)
+
+[View technologies](https://docs.spring.io/spring/docs/current/spring-framework-reference/html/view.html)
+
+[jaxtv](https://vimeo.com/jaxtv)
+
+
