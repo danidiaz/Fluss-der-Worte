@@ -494,4 +494,5 @@ Especially [this one](https://www.reddit.com/r/programming/comments/2cnw8x/what_
 
 [jaxtv](https://vimeo.com/jaxtv)
 
+[Don't like DI?](https://engineering.snagajob.com/dont-like-dependency-injection-898de93dc8d3)
 
