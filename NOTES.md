@@ -496,3 +496,26 @@ Especially [this one](https://www.reddit.com/r/programming/comments/2cnw8x/what_
 
 [Don't like DI?](https://engineering.snagajob.com/dont-like-dependency-injection-898de93dc8d3)
 
+[Auditing with JPA, Hibernate, and Spring Data JPA](http://www.baeldung.com/database-auditing-jpa)
+
+[One Big DAO, or One DAO Per Table/Object?](https://dzone.com/articles/one-big-dao-or-one-dao)
+
+[Which entities do I need to create Spring Data repositories for?](https://stackoverflow.com/questions/32464680/which-entities-do-i-need-to-create-spring-data-repositories-for)
+
+[Are you supposed to have one repository per table in JPA?](https://stackoverflow.com/questions/21265262/are-you-supposed-to-have-one-repository-per-table-in-jpa)
+
+[Spring Boot Quick Start](https://javabrains.io/courses/spring_bootquickstart/) Great course!
+
+[good things about Hibernate](https://www.reddit.com/r/java/comments/700aiw/hibernate_orm_5211_user_guide_documents_every/dn09lfs/)
+
+[Entity To DTO Conversion for a Spring REST API](http://www.baeldung.com/entity-to-and-from-dto-for-a-java-spring-application)
+
+[Spring DTO validation in Service or Controller?](https://stackoverflow.com/questions/19100317/spring-dto-validation-in-service-or-controller)
+
+[What is DAO, DTO and Service layers in spring framework?](https://stackoverflow.com/questions/35078383/what-is-dao-dto-and-service-layers-in-spring-framework)
+
+[Spring MVC: should service layer be returning operation specific DTO's?](https://stackoverflow.com/questions/2634669/spring-mvc-should-service-layer-be-returning-operation-specific-dtos)
+
+[Controller vs Service vs private method on command object.](http://forum.spring.io/forum/other-spring-related/architecture/56753-controller-vs-service-vs-private-method-on-command-object)
+
+
