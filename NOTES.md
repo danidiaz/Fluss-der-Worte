@@ -598,4 +598,6 @@ Especially [this one](https://www.reddit.com/r/programming/comments/2cnw8x/what_
 
 [What's the best way to refactor a method that has too many (6+) parameters?](https://stackoverflow.com/questions/439574/whats-the-best-way-to-refactor-a-method-that-has-too-many-6-parameters)
 
+[Videos from Java zone 2017](https://www.reddit.com/r/java/comments/6zuw0o/videos_from_javazone_2017_will_be_published/)
+
 
