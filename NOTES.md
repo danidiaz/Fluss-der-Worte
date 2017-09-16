@@ -578,4 +578,6 @@ Especially [this one](https://www.reddit.com/r/programming/comments/2cnw8x/what_
 
 [spring-data-jpa-examples](https://github.com/pkainulainen/spring-data-jpa-examples/tree/master/criteria-api)
 
+[Bean Validation](http://beanvalidation.org/) [Validation, Data Binding, and Type Conversion](https://docs.spring.io/spring/docs/current/spring-framework-reference/html/validation.html)
+
 
