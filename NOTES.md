@@ -600,4 +600,28 @@ Especially [this one](https://www.reddit.com/r/programming/comments/2cnw8x/what_
 
 [Videos from Java zone 2017](https://www.reddit.com/r/java/comments/6zuw0o/videos_from_javazone_2017_will_be_published/)
 
+[When and how to use hibernate second level cache?](https://stackoverflow.com/questions/7058843/when-and-how-to-use-hibernate-second-level-cache)
+
+[Hibernate Performance Tuning and Best Practices](http://in.relation.to/2016/09/28/performance-tuning-and-best-practices/)
+
+> Fetching too much data is the number one performance issue for the vast majority of JPA applications.
+
+> For read-only transactions, you should fetch DTO projections because they allow you to select just as many columns as you need to fulfill a certain business use case. This has many benefits like reducing the load on the currently running Persistence Context because DTO projections don’t need to be managed. 
+
+[17. Native SQL Queries](http://docs.jboss.org/hibernate/orm/5.2/userguide/html_single/Hibernate_User_Guide.html#sql)
+
+> You may also express queries in the native SQL dialect of your database. This is useful if you want to utilize database specific features such as window functions, Common Table Expressions (CTE) or the CONNECT BY option in Oracle. It also provides a clean migration path from a direct SQL/JDBC based application to Hibernate/JPA. Hibernate also allows you to specify handwritten SQL (including stored procedures) for all create, update, delete, and retrieve operations.
+
+[How to execute custom SQL query with spring-managed transactional EntityManager](https://stackoverflow.com/questions/18262630/how-to-execute-custom-sql-query-with-spring-managed-transactional-entitymanager)
+
+> This is essentially the same query as before, but now ResultSetMetaData is used to determine the type of name, where as the type of id is explicitly specified.
+
+[19. Multitenancy](http://docs.jboss.org/hibernate/orm/5.2/userguide/html_single/Hibernate_User_Guide.html#multitenacy)
+
+> It is possible to apply a ResultTransformer to native SQL queries, allowing it to return non-managed entities.
+
+[The best way to map a projection query to a DTO (Data Transfer Object) with JPA and Hibernate](https://vladmihalcea.com/2017/08/29/the-best-way-to-map-a-projection-query-to-a-dto-with-jpa-and-hibernate/)
+
+Explains ResultTransformer and many other cases.
+
 
