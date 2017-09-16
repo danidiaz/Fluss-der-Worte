@@ -594,4 +594,6 @@ Especially [this one](https://www.reddit.com/r/programming/comments/2cnw8x/what_
 
 > You should, therefore, always check the executed SQL statements when you apply any changes to your code.
 
+[Too Many Parameters in Java Methods, Part 7: Mutable State](https://www.javaworld.com/article/2074945/core-java/too-many-parameters-in-java-methods-part-7-mutable-state.html)
+
 
