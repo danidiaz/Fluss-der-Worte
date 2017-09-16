@@ -532,3 +532,50 @@ Especially [this one](https://www.reddit.com/r/programming/comments/2cnw8x/what_
 
 [Excessive use “this” keyword in Java](https://softwareengineering.stackexchange.com/questions/211319/excessive-use-this-keyword-in-java)
 
+[How to use Criteria Queries in Spring Boot Data Jpa Application](https://stackoverflow.com/questions/44278066/how-to-use-criteria-queries-in-spring-boot-data-jpa-application)
+
+[REST Query Language with Spring and JPA Criteria](http://www.baeldung.com/rest-search-language-spring-jpa-criteria)
+
+[Hibernate Criteria Queries](http://www.baeldung.com/hibernate-criteria-queries)
+
+> Clearly, the main and most hard-hitting advantage of Criteria queries over HQL is the nice, clean, Object Oriented API.
+
+> There are of course some disadvantages as well, especially around more complex joins.
+
+> So, generally speaking, we’ll have to use the best tool for the job – that can be the Criteria API in most cases, but there are definitely cases where we’ll have to go lower level.
+
+[Hibernate Best Practices](https://www.thoughts-on-java.org/hibernate-best-practices/)
+
+> When you’re writing an SQL SELECT statement, you’re obviously only selecting the columns you need for your use case. And that shouldn’t be different when you work with Hibernate. Unfortunately, a lot of developers only select entities from the database whether or not it’s a good fit for the use case.
+
+> JPA and Hibernate support more projections than just entities. There are 3 different kinds of them, and each one has its advantages and disadvantages
+
+> JPA and Hibernate offer multiple implicit and explicit options to define a query. None of them is a good fit for every use case, and you should, therefore, make sure to select the one that fits best.
+
+> The Java Persistence Query Language is defined by the JPA standard and very similar to SQL. It operates on entities and their relationships instead of database tables. You can use it to create queries of low and moderate complexity.
+
+[How to use native queries to perform bulk updates](https://www.thoughts-on-java.org/use-native-queries-perform-bulk-updates/)
+
+> Using a native UPDATE statement is quite easy as I will show you in the next paragraph. But it also creates issues with the always activated 1st level cache and doesn’t trigger any entity lifecycle events. I’ll show you how to handle these issues at the end of the post.
+
+> The typical JPA approach would require 200 SELECT statements to fetch each Person entity from the database and additional 200 UPDATE statements to update each of them. The execution of these 400 statements and all the Hibernate-internal processing takes about 370ms on my local test setup. 
+
+> The native UPDATE statement is executed in the database and doesn’t use any entities. This provides performance benefits, but it also avoids the execution of any entity lifecycle methods or entity listeners.
+
+> If you use a framework like Hibernate Envers or implement any code yourself that relies on lifecycle events, you have to either avoid native UPDATE statements or implement the operations of your listeners within this specific use case.
+
+[JPA and Hibernate - Criteria vs. JPQL or HQL](https://stackoverflow.com/questions/197474/jpa-and-hibernate-criteria-vs-jpql-or-hql)
+
+[Hibernate Criteria vs HQL: which is faster?](https://stackoverflow.com/questions/4401240/hibernate-criteria-vs-hql-which-is-faster)
+
+[What are First and Second Level caching in Hibernate?](https://stackoverflow.com/questions/337072/what-are-first-and-second-level-caching-in-hibernate)
+
+[Thoughts on Java playing list](https://www.youtube.com/channel/UCYeDPubBiFCZXIOgGYoyADw)
+
+[How to automatically validate entity attributes with Hibernate Validator](https://www.youtube.com/watch?v=yuOkFk14sLM)
+
+[How to implement a soft delete with Hibernate](https://www.youtube.com/watch?v=2Ttsh8JUH5g)
+
+[spring-data-jpa-examples](https://github.com/pkainulainen/spring-data-jpa-examples/tree/master/criteria-api)
+
+
