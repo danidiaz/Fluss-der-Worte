@@ -526,4 +526,7 @@ Especially [this one](https://www.reddit.com/r/programming/comments/2cnw8x/what_
 
 [Java 8: A Type Safe Map Builder Using Alternating Interface Exposure](https://www.javacodegeeks.com/2016/03/java-8-type-safe-map-builder-using-alternating-interface-exposure.html)
 
+[Spring Boot 2.0.0.M4 overhauls default security config, micrometer metrics & new Actuator endpoint infra](https://spring.io/blog/2017/09/15/spring-boot-2-0-0-m4-available-now)
+
+[Java Command-Line Interfaces (Part 15): Jargo](https://dzone.com/articles/java-command-line-interfaces-part-15-jargo)
 
