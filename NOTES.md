@@ -580,4 +580,18 @@ Especially [this one](https://www.reddit.com/r/programming/comments/2cnw8x/what_
 
 [Bean Validation](http://beanvalidation.org/) [Validation, Data Binding, and Type Conversion](https://docs.spring.io/spring/docs/current/spring-framework-reference/html/validation.html)
 
+[5 tips to write efficient queries with JPA and Hibernate](https://www.thoughts-on-java.org/5-tips-write-efficient-queries-jpa-hibernate/)
+
+> You should always use a projection that fits your use case.
+
+> Entities are a good fit if you have to update or remove a record. They might also be ok for use cases which need to read (almost) all entity attributes. But keep in mind, that the persistence context has to manage the entities which creates an overhead compared to a DTO projection.
+
+> DTO’s are a good fit for use cases that only need to read a record if they provide all required and no additional properties. That often requires you to create a new DTO when you implement a new use case. That is where most discussions start. You can’t reuse the same DTO and data access services for all use cases if you want to optimize for efficiency.
+
+[JPA 2.1 Entity Graph – Part 1: Named entity graphs](https://www.thoughts-on-java.org/jpa-21-entity-graph-part-1-named-entity/)
+
+> If you apply all of the previous tips, you already avoid the most common pitfalls. But from time to time, you will still create inefficient queries without recognizing it. JPA and Hibernate hide all SQL statements behind JPQL, the EntityManager, and the Criteria API. That makes them easy to use, but it also gets hard to understand all implications of your API calls.
+
+> You should, therefore, always check the executed SQL statements when you apply any changes to your code.
+
 
