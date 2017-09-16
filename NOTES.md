@@ -596,4 +596,6 @@ Especially [this one](https://www.reddit.com/r/programming/comments/2cnw8x/what_
 
 [Too Many Parameters in Java Methods, Part 7: Mutable State](https://www.javaworld.com/article/2074945/core-java/too-many-parameters-in-java-methods-part-7-mutable-state.html)
 
+[What's the best way to refactor a method that has too many (6+) parameters?](https://stackoverflow.com/questions/439574/whats-the-best-way-to-refactor-a-method-that-has-too-many-6-parameters)
+
 
