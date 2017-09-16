@@ -518,4 +518,12 @@ Especially [this one](https://www.reddit.com/r/programming/comments/2cnw8x/what_
 
 [Controller vs Service vs private method on command object.](http://forum.spring.io/forum/other-spring-related/architecture/56753-controller-vs-service-vs-private-method-on-command-object)
 
+[Early exit](https://www.reddit.com/r/java/comments/70b55r/early_exit/) [at Lobsters](https://lobste.rs/s/3bkeig/early_exit)
+
+[Too Many Parameters in Java Methods, Part 3: Builder Pattern](https://www.javaworld.com/article/2074938/core-java/too-many-parameters-in-java-methods-part-3-builder-pattern.html)
+
+[Reasons, Tips and Tricks for Better Java Documentation](https://zeroturnaround.com/rebellabs/reasons-tips-and-tricks-for-better-java-documentation/)
+
+[Java 8: A Type Safe Map Builder Using Alternating Interface Exposure](https://www.javacodegeeks.com/2016/03/java-8-type-safe-map-builder-using-alternating-interface-exposure.html)
+
 
