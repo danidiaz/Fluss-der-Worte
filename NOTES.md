@@ -530,3 +530,5 @@ Especially [this one](https://www.reddit.com/r/programming/comments/2cnw8x/what_
 
 [Java Command-Line Interfaces (Part 15): Jargo](https://dzone.com/articles/java-command-line-interfaces-part-15-jargo)
 
+[Excessive use “this” keyword in Java](https://softwareengineering.stackexchange.com/questions/211319/excessive-use-this-keyword-in-java)
+
