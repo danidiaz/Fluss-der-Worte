@@ -306,6 +306,20 @@ both the CDI and JPA runtimes at the same time.
 
 [Entity to DTO Usage](https://softwareengineering.stackexchange.com/questions/198520/entity-to-dto-usage)
 
+[VALUE OBJECT VS. DATA TRANSFER OBJECT (VO VS. DTO)](http://www.adam-bien.com/roller/abien/entry/value_object_vs_data_transfer)
+
+[DTO vs Value Object vs POCO](http://enterprisecraftsmanship.com/2015/04/13/dto-vs-value-object-vs-poco/)
+
+> Value Object is a full member of your domain model. It conforms to the same rules as Entity. The only difference between Value Object and Entity is that Value Object doesn’t have its own identity. 
+
+> Value Objects do contain logic and, typically, they are not used for transferring data between application boundaries.
+
+[Data Transfer Object Is a Shame](http://www.yegor256.com/2016/07/06/data-transfer-object.html)
+
+[Should I create interfaces for data transfer objects?](https://softwareengineering.stackexchange.com/questions/185636/should-i-create-interfaces-for-data-transfer-objects)
+
+[DTO vs Domain Models](http://www.carlosble.com/2015/05/dto-vs-domain-models/comment-page-1/)
+
 [https://codereview.stackexchange.com/questions/93511/data-transfer-objects-vs-entities-in-java-rest-server-application](https://codereview.stackexchange.com/questions/93511/data-transfer-objects-vs-entities-in-java-rest-server-application)
 
 [Java EE 7 and JAVA 8](https://www.youtube.com/watch?v=aYbjACDi2QU&app=desktop)
