@@ -648,4 +648,14 @@ Explains ResultTransformer and many other cases.
 
 [Technical details of serve modules without publishing in Eclipse WTP and Tomcat?](https://stackoverflow.com/questions/15575302/technical-details-of-serve-modules-without-publishing-in-eclipse-wtp-and-tomcat)
 
+[Spring Boot vs Spring MVC vs Spring - How do they compare?](http://www.springboottutorial.com/spring-boot-vs-spring-mvc-vs-spring)
+
+> When we use Spring MVC, we need to configure component scan, dispatcher servlet, a view resolver, web jars(for delivering static content) among other things.
+
+> When we use Hibernate/JPA, we would need to configure a datasource, an entity manager factory, a transaction manager among a host of other things.
+
+[Spring Tips: Demystifying Bootiful Magic](https://www.youtube.com/watch?v=Sw7I70vjN0E)
+
+[It's a kind of magic: under the covers of Spring Boot](https://www.youtube.com/watch?v=uof5h-j0IeE)
+
 
