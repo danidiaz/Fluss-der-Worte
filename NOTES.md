@@ -662,4 +662,6 @@ Explains ResultTransformer and many other cases.
 
 [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/)
 
+[Spring MVC – Component-Scan, Annotation-Config, Annotation-Driven](https://scotch.io/@ethanmillar/spring-mvc-component-scan-annotation-config-annotation-driven)
+
 
