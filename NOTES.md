@@ -668,4 +668,30 @@ Explains ResultTransformer and many other cases.
 
 [Class DispatcherServlet](https://docs.spring.io/spring/docs/current/javadoc-api/org/springframework/web/servlet/DispatcherServlet.html)
 
+[What is the difference between an Spring Entity Manager and Spring Data Repository?](https://stackoverflow.com/questions/14621495/what-is-the-difference-between-an-spring-entity-manager-and-spring-data-reposito)
+
+[What is difference between CrudRepository and JpaRepository interfaces in Spring Data JPA](https://stackoverflow.com/questions/14014086/what-is-difference-between-crudrepository-and-jparepository-interfaces-in-spring)
+
+> The Spring Framework has always offered sophisticated support for JPA to ease repository implementations. The support consists of helper classes to set up an EntityManagerFactory, integrate with the Spring transaction abstraction, and translate JPA-specific exceptions into Spring’s DataAccessException hierarchy.
+
+> The Spring Data JPA module implements the Spring Data Commons repository abstraction to ease the repository implementations even more, making a manual implementation of a repository obsolete in most cases. For a general introduction to the repository abstraction, see Chapter 2. This chapter will take you on a guided tour through the general setup and features of the module.
+
+[SPRING BOOT WEB APPLICATION – PART 3 – SPRING DATA JPA](https://springframework.guru/spring-boot-web-application-part-3-spring-data-jpa/)
+
+> Using Spring Data JPA can save you a lot of time when interacting with the database. Spring Data JPA implements the Repository Pattern. This design pattern was originally defined by Eric Evans and Martin Fowler, in their book Domain Driven Design. This is one of those time test computer science books, over a decade old, still remains relevant today.
+
+> You don’t need to use Spring Data JPA for this type of project. But using Spring Data JPA will make your life as a developer easier. A common alternative to Spring Data JPA would be to use the widely accepted DAO pattern, The DAO pattern is very similar to the Repository Pattern. The advantage of using Spring Data JPA is that you’ll be writing a lot less code. Spring Data JPA works a lot like Spring Integration Gateways, where you define an interface, and Spring provides the implementation at run time.
+
+[What is the difference between DAO and Repository patterns?](https://stackoverflow.com/questions/8550124/what-is-the-difference-between-dao-and-repository-patterns)
+
+[What is the difference between DAO and Repository patterns?](https://stackoverflow.com/questions/8550124/what-is-the-difference-between-dao-and-repository-patterns)
+
+> DAO is an abstraction of data persistence. Repository is an abstraction of a collection of objects.
+
+> DAO would be considered closer to the database, often table-centric. Repository would be considered closer to the Domain, dealing only in Aggregate Roots. A Repository could be implemented using DAO's, but you wouldn't do the opposite.
+
+[Don’t use DAO, use Repository](https://thinkinginobjects.com/2012/08/26/dont-use-dao-use-repository/)
+
+> It you think the Repository as a Collection, this change makes a lot of sense. You avoid to expose the type of Accounts identity to the Repository interface.
+
 
