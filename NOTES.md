@@ -664,4 +664,8 @@ Explains ResultTransformer and many other cases.
 
 [Spring MVC – Component-Scan, Annotation-Config, Annotation-Driven](https://scotch.io/@ethanmillar/spring-mvc-component-scan-annotation-config-annotation-driven)
 
+[Role/Purpose of ContextLoaderListener in Spring?](https://stackoverflow.com/questions/11815339/role-purpose-of-contextloaderlistener-in-spring)
+
+[Class DispatcherServlet](https://docs.spring.io/spring/docs/current/javadoc-api/org/springframework/web/servlet/DispatcherServlet.html)
+
 
