@@ -626,3 +626,6 @@ Explains ResultTransformer and many other cases.
 
 [Collected Java Practices](http://www.javapractices.com/home/HomeAction.do)
 
+[GOTO 2017 • Feature Branches and Toggles in a Post-GitHub World • Sam Newman](https://www.youtube.com/watch?v=lqRQYEHAtpk)
+
+
