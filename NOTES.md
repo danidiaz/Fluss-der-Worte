@@ -630,4 +630,5 @@ Explains ResultTransformer and many other cases.
 
 [10,000 Java performance tips over 15 years](https://www.youtube.com/watch?v=OYpTn0nWKR4)
 
+[JavaDay Kyiv 2015: Lazy Versus Eager Loading Strategies for JPA 2.1, Patrycja Wegrzynowicz](https://www.youtube.com/watch?v=B8KTXczuVm0) mentions JOIN FETCH [here](https://youtu.be/B8KTXczuVm0?t=1004).
 
