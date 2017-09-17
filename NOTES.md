@@ -628,4 +628,6 @@ Explains ResultTransformer and many other cases.
 
 [GOTO 2017 • Feature Branches and Toggles in a Post-GitHub World • Sam Newman](https://www.youtube.com/watch?v=lqRQYEHAtpk)
 
+[10,000 Java performance tips over 15 years](https://www.youtube.com/watch?v=OYpTn0nWKR4)
+
 
