@@ -624,4 +624,5 @@ Especially [this one](https://www.reddit.com/r/programming/comments/2cnw8x/what_
 
 Explains ResultTransformer and many other cases.
 
+[Collected Java Practices](http://www.javapractices.com/home/HomeAction.do)
 
