@@ -658,4 +658,8 @@ Explains ResultTransformer and many other cases.
 
 [It's a kind of magic: under the covers of Spring Boot](https://www.youtube.com/watch?v=uof5h-j0IeE)
 
+[Maven dependency spring-web vs spring-webmvc](https://stackoverflow.com/questions/13533700/maven-dependency-spring-web-vs-spring-webmvc)
+
+[Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/)
+
 
