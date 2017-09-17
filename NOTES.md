@@ -646,3 +646,6 @@ Explains ResultTransformer and many other cases.
 
 [JavaDay Kyiv 2015: Lazy Versus Eager Loading Strategies for JPA 2.1, Patrycja Wegrzynowicz](https://www.youtube.com/watch?v=B8KTXczuVm0) mentions JOIN FETCH [here](https://youtu.be/B8KTXczuVm0?t=1004).
 
+[Technical details of serve modules without publishing in Eclipse WTP and Tomcat?](https://stackoverflow.com/questions/15575302/technical-details-of-serve-modules-without-publishing-in-eclipse-wtp-and-tomcat)
+
+
