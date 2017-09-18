@@ -702,4 +702,12 @@ Explains ResultTransformer and many other cases.
 
 [Applying HATEOAS to a REST API with Spring Boot](https://dzone.com/articles/applying-hateoas-to-a-rest-api-with-spring-boot)
 
+[UserDetailsManager](https://docs.spring.io/spring-security/site/docs/current/apidocs/org/springframework/security/provisioning/UserDetailsManager.html)
+
+[RoleVoter](https://docs.spring.io/spring-security/site/docs/current/apidocs/org/springframework/security/access/vote/RoleVoter.html)
+
+[http://www.springframework.org/schema/security/spring-security-4.2.xsd](http://www.springframework.org/schema/security/spring-security-4.2.xsd)
+
+[Getting Started with Forms in Spring MVC](http://www.baeldung.com/spring-mvc-form-tutorial)
+
 
