@@ -700,3 +700,6 @@ Explains ResultTransformer and many other cases.
 
 [What is your opinion on Spring as full-stack backend solution with some processes in background, database work and admin panel for web-services, web-applications?](https://www.reddit.com/r/java/comments/6zu0p6/what_is_your_opinion_on_spring_as_fullstack/) [link](https://www.reddit.com/r/java/comments/6zu0p6/what_is_your_opinion_on_spring_as_fullstack/dmy3aqm/)
 
+[Applying HATEOAS to a REST API with Spring Boot](https://dzone.com/articles/applying-hateoas-to-a-rest-api-with-spring-boot)
+
+
