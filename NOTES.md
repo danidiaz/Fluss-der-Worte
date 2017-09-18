@@ -712,4 +712,5 @@ Explains ResultTransformer and many other cases.
 
 [Getting Started with Forms in Spring MVC](http://www.baeldung.com/spring-mvc-form-tutorial)
 
+[Tutorial: Thymeleaf + Spring](http://www.thymeleaf.org/doc/tutorials/2.1/thymeleafspring.html)
 
