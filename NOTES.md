@@ -708,6 +708,8 @@ Explains ResultTransformer and many other cases.
 
 [http://www.springframework.org/schema/security/spring-security-4.2.xsd](http://www.springframework.org/schema/security/spring-security-4.2.xsd)
 
+[The security namespace](https://docs.spring.io/spring-security/site/docs/current/reference/html/appendix-namespace.html)
+
 [Getting Started with Forms in Spring MVC](http://www.baeldung.com/spring-mvc-form-tutorial)
 
 
