@@ -694,4 +694,9 @@ Explains ResultTransformer and many other cases.
 
 > It you think the Repository as a Collection, this change makes a lot of sense. You avoid to expose the type of Accounts identity to the Repository interface.
 
+[Exception Handling and I18N on Spring Boots APIs](https://auth0.com/blog/exception-handling-and-i18n-on-spring-boots-apis/)
+
+[Lesser–Known Java Syntaxes](https://blog.joegreen.pl/lesser-known-java-syntaxes.html)
+
+[What is your opinion on Spring as full-stack backend solution with some processes in background, database work and admin panel for web-services, web-applications?](https://www.reddit.com/r/java/comments/6zu0p6/what_is_your_opinion_on_spring_as_fullstack/) [link](https://www.reddit.com/r/java/comments/6zu0p6/what_is_your_opinion_on_spring_as_fullstack/dmy3aqm/)
 
