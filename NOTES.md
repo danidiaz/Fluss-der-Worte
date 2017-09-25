@@ -714,3 +714,5 @@ Explains ResultTransformer and many other cases.
 
 [Tutorial: Thymeleaf + Spring](http://www.thymeleaf.org/doc/tutorials/2.1/thymeleafspring.html)
 
+[SCHEDULER AND BUSINESS LOGIC SEPARATION](http://adambien.blog/roller/abien/entry/scheduler_and_business_logic_separation)
+
