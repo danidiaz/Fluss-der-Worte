@@ -716,3 +716,6 @@ Explains ResultTransformer and many other cases.
 
 [SCHEDULER AND BUSINESS LOGIC SEPARATION](http://adambien.blog/roller/abien/entry/scheduler_and_business_logic_separation)
 
+[Externalized configuration](https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-external-config.html)
+
+
