@@ -1,1 +1,1 @@
-drop database redefluss;
+﻿drop if exists database redefluss;
