@@ -720,3 +720,8 @@ Explains ResultTransformer and many other cases.
 
 [ASYNCHRONOUS BROWSER PUSH WITH HTTP/2, SERVLETS 4.0 AND JAVA EE 8](http://adambien.blog/roller/abien/entry/asynchronous_browser_push_with_http)
 
+[How to Translate SQL GROUP BY and Aggregations to Java 8](https://blog.jooq.org/2015/01/23/how-to-translate-sql-group-by-and-aggregations-to-java-8/)
+
+
+
+
