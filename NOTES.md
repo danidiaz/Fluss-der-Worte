@@ -718,4 +718,5 @@ Explains ResultTransformer and many other cases.
 
 [Externalized configuration](https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-external-config.html)
 
+[ASYNCHRONOUS BROWSER PUSH WITH HTTP/2, SERVLETS 4.0 AND JAVA EE 8](http://adambien.blog/roller/abien/entry/asynchronous_browser_push_with_http)
 
