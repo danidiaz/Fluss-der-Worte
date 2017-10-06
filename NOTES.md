@@ -722,6 +722,8 @@ Explains ResultTransformer and many other cases.
 
 [How to Translate SQL GROUP BY and Aggregations to Java 8](https://blog.jooq.org/2015/01/23/how-to-translate-sql-group-by-and-aggregations-to-java-8/)
 
+[Precedence of properties: system vs. deployment descriptor vs. properties file](https://stackoverflow.com/questions/22297114/precedence-of-properties-system-vs-deployment-descriptor-vs-properties-file)
+
 
 
 
