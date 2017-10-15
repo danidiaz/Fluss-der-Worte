@@ -732,5 +732,6 @@ Explains ResultTransformer and many other cases.
 
 [Demystifying Java EE](https://www.youtube.com/watch?v=zht_qvbm5lU)
 
+[Java EE 8 Kickstarter -- The Simplest Possible Project](https://www.youtube.com/watch?v=89htW1ToTVs)
 
 
