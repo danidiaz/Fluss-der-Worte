@@ -730,6 +730,7 @@ Explains ResultTransformer and many other cases.
 
 [Java EE: Heavyweight or Lightweight](https://www.youtube.com/watch?v=LwimkQQDhio)
 
+[Demystifying Java EE](https://www.youtube.com/watch?v=zht_qvbm5lU)
 
 
 
