@@ -724,6 +724,12 @@ Explains ResultTransformer and many other cases.
 
 [Precedence of properties: system vs. deployment descriptor vs. properties file](https://stackoverflow.com/questions/22297114/precedence-of-properties-system-vs-deployment-descriptor-vs-properties-file)
 
+[The case against annotations](https://blog.softwaremill.com/the-case-against-annotations-4b2fb170ed67) [reddit](https://www.reddit.com/r/programming/comments/76ho2m/the_case_against_annotations_softwaremill_tech/)
+
+[Microservices in Java? Never.](https://medium.com/@elliot_f/microservices-in-java-never-a7f3a2540dbb) [reddit](https://www.reddit.com/r/programming/comments/76kggl/microservices_in_java_never/) [more reddit](https://www.reddit.com/r/programming/comments/76kyai/microservices_in_java_never_an_objective_look_at/)
+
+[Java EE: Heavyweight or Lightweight](https://www.youtube.com/watch?v=LwimkQQDhio)
+
 
 
 
