@@ -734,4 +734,5 @@ Explains ResultTransformer and many other cases.
 
 [Java EE 8 Kickstarter -- The Simplest Possible Project](https://www.youtube.com/watch?v=89htW1ToTVs)
 
+[JVM Con, Java EE 8 Features and Java ONE Impressions](https://www.youtube.com/watch?v=rvf-Z8euCB8)
 
